@@ -38,15 +38,6 @@ namespace test_thing
             //task 3 
             days_of_the_week();
             
-
-            int x = 9;
-            int y = 5;
-            Console.WriteLine((x--) + (--x));
-            Console.WriteLine((y--) + (y--));
-
-
-
-
         }
         
         //task 2
